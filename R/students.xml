@@ -1,0 +1,14 @@
+<students>
+    <student id="101">
+        <name>Dikshhita</name>
+        <age>22</age>
+        <math>90</math>
+        <science>95</science>
+    </student>
+    <student id="102">
+        <name>Dipson</name>
+        <age>18</age>
+        <math>98</math>
+        <science>92</science>
+    </student>
+</students>
